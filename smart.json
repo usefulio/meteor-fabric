@@ -1,0 +1,9 @@
+{
+	"name": "fabric",
+	"description": "FabricJS - Javascript Canvas Library, SVG-to-Canvas ( canvas-to-SVG) Parser http://fabricjs.com",
+	"homepage": "https://github.com/usefulio/meteor-fabric",
+	"version": "0.1.0",
+	"git": "https://github.com/usefulio/meteor-fabric.git",
+	"packages": {
+	}
+}
